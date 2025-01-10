@@ -12,7 +12,7 @@ If an update is available you want to click the "Update Available" button. Doing
 
 ![Minecraft Screenshot](https://i.ibb.co/hmD9HQ8/Update-Avail-2.png)
 
-From this screen all you have to do is select the latest version of the modpack on the left-most menu. This will display the changelog and give you the ability to click the "Generic" button in the top-middle. Clicking that button will open this repository, and then you will navigate into the "versions" folder, and then into the folder for the modpack version you are updating to (for instance, 1.1.0). In  that folder you will find a download for the modpack update. The latest update file will also always be pinned in the Discord (the "downloads" channel).
+From this screen all you have to do is select the latest version of the modpack on the left-most menu. This will display the changelog and give you the ability to click the "Generic" button in the top-middle. Clicking that button will open this repository, and then you will navigate into the "versions" folder, and then into the folder for the modpack version you are updating to (for instance, 1.1.0). In  that folder you will find a download for the modpack update. The latest update file will also always be pinned in the Discord (the "modpack-update-guide" channel).
 
 ![Minecraft Screenshot](https://i.ibb.co/JK567gz/Update-Avail-3.png)
 ## Modpack Update Utility
