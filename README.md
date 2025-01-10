@@ -19,6 +19,13 @@ From this screen all you have to do is select the latest version of the modpack 
 
 The Modpack Update Utility is a simple, custom made application that handles automatically applying updates to the modpack. The user selects the path to the modpack itself and the update file, and the application handles the rest. This allows for easier updates and configuration changes without the user having to do too much extra work as configuration changes are especially difficult to explain / distribute on the client-side with a small-scope modpack like ours. The code is quick and dirty, but it should get the job done!
 
+### Virus Total Results
+![VirusTotal Results](https://i.ibb.co/km2jVwR/Virus-Total-Results.png)
+
+To help people be a little more comfortable I've included the VirusTotal scan results for the Modpack Update Utility here. No malware here! The full results can be found here: [VirusTotal Results](https://www.virustotal.com/gui/file/9ce7b401d24d7b0c5095f078e57a5424beace3a94600d2dea1a4a8595f20d669)
+
+---  
+  
 ![Modpack Upgrade Utility GUI](https://i.ibb.co/gFSpNZG/Modpack-Update-Utility-Populated.png)
 
 ### Usage Guide
