@@ -1,4 +1,4 @@
 ## Version 1.1.0 Changelog
----
+
 - Added the Modpack Update Checker mod and config files
 - Changed Aether configuration files to improve compatibility with the Accessories mod
