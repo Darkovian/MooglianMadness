@@ -18,7 +18,7 @@
         "updateType": "minor_breaking",
         "promotions": {
           "downloads": {
-            "generic": "https://raw.githubusercontent.com/Darkovian/MooglianMadness/refs/heads/main/versions/1.1.0/Modpack%20Update%201_1_0.zip/"
+            "generic": "https://raw.githubusercontent.com/Darkovian/MooglianMadness/refs/heads/main/versions/1.1.0/Modpack%20Update%201_1_0.zip"
           }
         }
       }
