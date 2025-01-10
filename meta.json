@@ -18,7 +18,7 @@
         "updateType": "minor_breaking",
         "promotions": {
           "downloads": {
-            "generic": "https://github.com/Darkovian/MooglianMadness/"
+            "generic": "https://github.com/Darkovian/MooglianMadness/tree/04d0370de0bd904c874ec35dc26cfdf86057117e/versions/1.1.0/"
           }
         }
       }
