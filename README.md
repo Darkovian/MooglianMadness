@@ -32,7 +32,7 @@ To help people be a little more comfortable I've included the VirusTotal scan re
 1. Make sure that your Minecraft is closed.
 2. Download the latest modpack update from either the Discord or the versions folder in this repo.
 3. Click in the "Modpack Instance Path" textbox. A selection box will open, and you want to choose the instance folder for the modpack we are using. The app should automatically put you in the Prism Launcher instances folder, so all you should have to do it select the folder for our modpack and then click the "Select Folder" button.
- - If you are unsure what folder you need to select or can't find it, you can right click on the instance inside of Prism Launcher and select "Folder". Doing so will open the folder that you want to select in the Modpack Update Utility.
+    - If you are unsure what folder you need to select or can't find it, you can right click on the instance inside of Prism Launcher and select "Folder". Doing so will open the folder that you want to select in the Modpack Update Utility.
 4. After you have selected the instance folder you can click the "Open Update File" button. A file selection box will open- select the modpack update ZIP you downloaded in step 1 and click "Open".
 5. The Modpack Update Utility will parse the update zip and display the changes that it is going to make for you.
 6. The "Update Modpack" button should now be enabled- click it to perform the update. You should get a message popup letting you know that the update was completed successfully.
