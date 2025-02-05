@@ -1,0 +1,14 @@
+
+## Version 1.3.1 Changelog
+
+
+### Mods Updated
+- Armourer's Workshop
+- AzureLib
+- CreativeCore
+- EMI Loot
+- More RPG Classes
+- Tech Reborn
+- Traveler's Titles
+- Waystones
+- YUNG's Better Desert Temples

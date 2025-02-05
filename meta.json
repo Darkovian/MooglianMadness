@@ -41,6 +41,16 @@
                 "generic": "https://github.com/Darkovian/MooglianMadness/tree/main/versions/1.3.0/"
               }
             }
-          }
+          },
+          {
+              "id": "1.3.1",
+              "releasedAt": 1738766815950,
+              "updateType": "minor_breaking",
+              "promotions": {
+                "downloads": {
+                  "generic": "https://github.com/Darkovian/MooglianMadness/tree/main/versions/1.3.1/"
+                }
+              }
+            }
   ]
 }
