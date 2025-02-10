@@ -1,0 +1,21 @@
+
+## Version 1.3.2 Changelog
+
+
+### Mods Updated
+- Accessories
+- AzureLib
+- Balm
+- Camerapture
+- CC: Tweaked
+- ChocoCraft
+- Farmer's Delight
+- FTB Quests
+- JEED
+- LibIPN
+- MoreCulling
+- PolyTone
+- Sodium
+- Spell Power
+- The Aether
+- Traveler's Backpack
