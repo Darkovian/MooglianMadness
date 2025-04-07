@@ -2,4 +2,4 @@
 ## Version 1.5.1 Changelog
 
 
-### 13 Mods Updated, 7 Mods Removed (wer not working), 2 Mods Added
+### 13 Mods Updated, 7 Mods Removed (were not working), 2 Mods Added

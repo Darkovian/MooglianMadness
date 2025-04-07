@@ -91,6 +91,16 @@
           "generic": "https://github.com/Darkovian/MooglianMadness/tree/main/versions/1.5.1/"
         }
       }
+    },
+    {
+      "id": "1.5.2",
+      "releasedAt": 1744069229365,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Darkovian/MooglianMadness/tree/main/versions/1.5.2/"
+        }
+      }
     }
   ]
 }
